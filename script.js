@@ -29,7 +29,7 @@ function copyText(text) {
 
 function openLink(value) {
     if (value == "first") {
-        window.location.href = "https://cfx.re/join/8l6rym";
+        window.location.href = "https://cfx.re/join/r89qa8";
     }
     if (value == "second") {
         window.location.href = "https://discord.gg/ZWGY83Ng5B";
