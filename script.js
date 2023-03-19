@@ -5,7 +5,7 @@ let third = "TeamSpeak Link";
 
 function copyText(text) {
     if (text == "first") {
-        alert('Server is currently under development')
+        alert('https://cfx.re/join/r89qa8')
     }
     if (text == "second") {
         var input = document.createElement('input');
